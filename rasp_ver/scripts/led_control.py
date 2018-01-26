@@ -13,7 +13,7 @@ Summary: LED control on RasPi
 import RPi.GPIO as GPIO
 import time
 
-GREEN = 13	 # use RasPi's NO.13, 19, 26 GPIO, GND is below GPIO26, on the corner
+GREEN = 13	 # use Rasp Pi 3B's No.13, No.19, No.26 GPIO, and GND is below GPIO26, on the corner
 YELLOW = 19
 RED = 26
 

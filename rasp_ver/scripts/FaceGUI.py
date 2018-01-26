@@ -14,8 +14,8 @@ import tkMessageBox
 from Tkinter import *
 import os
 
-user_path = '/home/pi/Desktop/raspberrypiFork_FaceRec_SVM-master/scripts/'
-user_python = 'python2.7'
+user_path = '/home/pi/Desktop/raspberrypiFork_FaceRec_SVM-master/scripts/' # In order to run, one need to change this user_path variable to the absolute path in your own Pi.
+user_python = 'python2.7' # If your computer has multiple versions of python along with Python 2.7.13, set user_python to 'python2.7' is the most secure way. If not, then change user_python variable to 'python'
 def button_test():
     pwd = name_to_be_added.get()
     tkMessageBox.showinfo(title='aaa', message=pwd)
