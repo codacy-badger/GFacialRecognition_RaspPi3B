@@ -2,11 +2,11 @@
 # -*- coding: utf-8 -*-
 
 """
-Auther: Guo Yang <guoyang@hzau.edu.cn>
+Auther: Guo Yang <guoyang@webmail.hzau.edu.cn>
 
-This file is part of ImgProcessing A Project.
+This file is part of <<ImgProcessing A>> Project.
 
-Summary: register a new face ( suitable for RasPi now )
+Summary: register a new face ( suitable for Rasp Pi version )
 
 """
 

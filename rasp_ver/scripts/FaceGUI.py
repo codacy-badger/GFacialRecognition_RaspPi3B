@@ -2,9 +2,9 @@
 # -*- coding: utf-8 -*-
 
 """
-Auther: Guo Yang <guoyang@hzau.edu.cn>
+Auther: Guo Yang <guoyang@webmail.hzau.edu.cn>
 
-This file is part of ImgProcessing A Project.
+This file is part of <<ImgProcessing A>> Project.
 
 Summary: GUI program for project
 
@@ -106,7 +106,7 @@ Label(root, text=" ").pack()
 Label(root, text=" ").pack()
 Label(root, text=" ").pack()
 Label(root, text=" ").pack()
-Label(root, text="Author: guoyang \nThis GUI program is part of ImgProcessing A Project.").pack()
+Label(root, text="Author: guoyang \nThis GUI program is part of <<ImgProcessing A>> Project.").pack()
 # root_Button3.bind("Button-1", on_ckick_knockknock())
 
 root.mainloop()    # entering into message loop
