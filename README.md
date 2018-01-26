@@ -15,13 +15,13 @@ my own Facial Recognition implementation using SVM and PCA on a Rasp Pi 3B chip
 
 ## For mac version instead of Pi version, please proceed to mac_version branch
 
-[mac_version branch portal]()
+[mac_version branch portal](https://github.com/sgyzetrov/GFacialRecognition_RaspPi3B/tree/mac_version)
 
 ## snapshot
 
 ### GUI:
 
-![GUI.png](http://img.blog.csdn.net/20180126140409256)
+![GUI.png](http://img.blog.csdn.net/20180126143314221)
 
 As you can see to register a new face require admin password, I set to '1111', and you can change it in `FaceGUI.py`
 
@@ -31,7 +31,7 @@ As you can see to register a new face require admin password, I set to '1111', a
 
 ### Facial Recognition Result
 
-![admin.png](http://img.blog.csdn.net/20180126141145868)
+![admin.png](http://img.blog.csdn.net/20180126143531077)
 
 ## Usage
 
