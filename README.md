@@ -19,7 +19,7 @@ This branch is for my code to run in macOS in order to test and development.
 
 [master branch portal](https://github.com/sgyzetrov/GFacialRecognition_RaspPi3B)
 
-## snapshot
+## snapshots
 
 ### GUI:
 
