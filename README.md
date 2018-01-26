@@ -17,7 +17,7 @@ my own Facial Recognition implementation using SVM and PCA on a Rasp Pi 3B chip
 
 [mac_version branch portal](https://github.com/sgyzetrov/GFacialRecognition_RaspPi3B/tree/mac_version)
 
-## snapshot
+## snapshots
 
 ### GUI:
 
