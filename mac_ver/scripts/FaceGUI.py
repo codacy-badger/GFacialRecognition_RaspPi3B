@@ -2,9 +2,9 @@
 # -*- coding: utf-8 -*-
 
 """
-Auther: Guo Yang <guoyang@hzau.edu.cn>
+Auther: Guo Yang <guoyang@webmail.hzau.edu.cn>
 
-This file is part of ImgProcessing A Project.
+This file is part of <<ImgProcessing A>> Project.
 
 Summary: GUI program for project
 
@@ -14,8 +14,8 @@ import tkMessageBox
 from Tkinter import *
 import os
 
-user_path = '/Users/simonguo/myDocuments/大学课程/图像处理/项目/图像处理项目/项目1/Final_project/mac_ver/scripts/'
-user_python = 'python2.7'
+user_path = '/Users/simonguo/myDocuments/Final_project/mac_ver/scripts/' # In order to run, one need to change this user_path variable to the absolute path in your own device.
+user_python = 'python2.7' # If your computer has multiple versions of python along with Python 2.7.13, set user_python to 'python2.7' is the most secure way. If not, then change user_python variable to 'python'
 def button_test():
     pwd = name_to_be_added.get()
     tkMessageBox.showinfo(title='aaa', message=pwd)
@@ -67,7 +67,7 @@ root = Tk()
 root.title('Author: gy Version: 0.0.1')
 root.geometry('800x600')
 
-Label(root, text='Facial Recognition implementation using SVM and PCA on a RasPi chip', font=('Arial', 20)).pack()
+Label(root, text='Facial Recognition implementation using SVM and PCA on a Rasp Pi chip', font=('Arial', 20)).pack()
 Label(root, text=' ', font=('Arial', 20)).pack()  # place holder
 
 name_to_be_added = StringVar()   # for string variable used in windows
@@ -106,7 +106,7 @@ Label(root, text=" ").pack()
 Label(root, text=" ").pack()
 Label(root, text=" ").pack()
 Label(root, text=" ").pack()
-Label(root, text="Author: guoyang \nThis GUI program is part of ImgProcessing A Project.").pack()
+Label(root, text="Author: guoyang \nThis GUI program is part of <<ImgProcessing A>> Project.").pack()
 # root_Button3.bind("Button-1", on_ckick_knockknock())
 
 root.mainloop()    # entering into message loop

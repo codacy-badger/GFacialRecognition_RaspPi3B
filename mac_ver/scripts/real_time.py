@@ -2,11 +2,11 @@
 # -*- coding: utf-8 -*-
 
 """
-Auther: Guo Yang <guoyang@hzau.edu.cn>
+Auther: Guo Yang <guoyang@webmail.hzau.edu.cn>
 
-This file is part of ImgProcessing A Project.
+This file is part of <<ImgProcessing A>> Project.
 
-Summary: real_time facial recognition ( not suitable for RasPi yet )
+Summary: real_time facial recognition ( this version of source code is not compatible with Rasp Pi version)
 
 """
 
