@@ -2,6 +2,8 @@
 
 my own Facial Recognition implementation using SVM and PCA on a Rasp Pi 3B chip
 
+This branch is for my code to run in macOS in order to test and development. 
+
 ## environment
 
 - macOS 10.12.6 + PyCharm
