@@ -43,4 +43,4 @@ If you finished the above modifications, then, run `FaceGUI.py` and you are all 
 
 ## Welcome to fork and PR
 
-If encounter any troubles, feel free to take them to me in new issues!
+If encounter any troubles, feel free to take them to me in new issues! [click](https://github.com/sgyzetrov/GFacialRecognition_RaspPi3B/issues)
