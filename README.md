@@ -28,6 +28,8 @@ As you can see to register a new face require admin password, I set to '1111', a
 ### hardware:
 
 ![pi.png](http://img.blog.csdn.net/20180126140958970)
+#### backup pic (incase image above failed):
+![pi.png](https://i.loli.net/2018/02/10/5a7df1b44dc9c.png)
 
 ### Facial Recognition Result
 
