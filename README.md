@@ -1,5 +1,8 @@
 # FacialRecognition_RaspPi3B
 
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
+[![Python 2.7](https://img.shields.io/badge/python-2.7-yellow.svg)](https://www.python.org/)
+
 my own Facial Recognition implementation using SVM and PCA on a Rasp Pi 3B chip
 
 This branch is for my code to run in macOS in order to test and development. 
@@ -23,19 +26,17 @@ This branch is for my code to run in macOS in order to test and development.
 
 ### GUI:
 
-![GUI.png](http://img.blog.csdn.net/20180126143314221)
+![GUI.png](https://github.com/sgyzetrov/GFacialRecognition_RaspPi3B/blob/master/img/GUI.png)
 
 As you can see to register a new face require admin password, I set to '1111', and you can change it in `FaceGUI.py`
 
 ### hardware:
 
-![pi.png](http://img.blog.csdn.net/20180126140958970)
-#### backup pic (incase image above failed):
-![pi.png](https://i.loli.net/2018/02/10/5a7df1b44dc9c.png)
+![pi.png](https://github.com/sgyzetrov/GFacialRecognition_RaspPi3B/blob/master/img/pi.png)
 
 ### Facial Recognition Result
 
-![admin.png](http://img.blog.csdn.net/20180126143531077)
+![admin.png](https://github.com/sgyzetrov/GFacialRecognition_RaspPi3B/blob/master/img/admin.png)
 
 ## Usage
 
