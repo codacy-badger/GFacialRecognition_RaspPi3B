@@ -1,5 +1,8 @@
 # FacialRecognition_RaspPi3B
 
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
+[![Python 2.7](https://img.shields.io/badge/python-2.7-yellow.svg)](https://www.python.org/)
+
 my own Facial Recognition implementation using SVM and PCA on a Rasp Pi 3B chip
 
 ## environment
