@@ -74,7 +74,7 @@ def build_SVC(face_profile_data, face_profile_name_index, face_dim):
 
     print("\nProjecting the input data on the eigenfaces orthonormal basis")
     X_train_pca = pca.transform(X_train)
-    X_test_pca = pca.transform(X_test) 
+    X_test_pca = pca.transform(X_test)
 
     # Train a SVM classification model
 
