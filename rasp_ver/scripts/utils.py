@@ -3,7 +3,7 @@ Auther: Guo Yang <guoyang@webmail.hzau.edu.cn>
 
 This file is part of <<ImgProcessing A>> Project.
 
-Summary: Utilties used for facial tracking in OpenCV 
+Summary: Utilties used for facial tracking in OpenCV
 
 """
 
@@ -56,7 +56,7 @@ def read_images_from_single_face_profile(face_profile, face_profile_name_index, 
             X_data = img_data if not X_data.shape[0] else np.vstack((X_data,img_data))
             index += 1
 
-    if index == 0 : 
+    if index == 0 :
         shutil.rmtree(face_profile)
         logging.error("\nThere exists face profiles without images")
 
@@ -233,7 +233,7 @@ def create_directory(face_profile):
 
 def create_profile_in_database(face_profile_name, database_path="../face_profiles/", clean_directory=False):
     """
-    Create a face profile directory in the database 
+    Create a face profile directory in the database
 
     Parameters
     ----------
