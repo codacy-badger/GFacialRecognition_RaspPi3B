@@ -32,7 +32,7 @@ if face_cascade is None:
     print "Load face CascadeClassifier failed!"
     sys.exit(0)
 
-FACE_DIM = (100, 100) 
+FACE_DIM = (100, 100)
 # initialize the camera and grab a reference to the raw camera capture
 camera = PiCamera()
 camera.resolution = (512, 400)
